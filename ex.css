@@ -1,3 +1,6 @@
 body {
-    front-family
+    front-family: verdana;
 }
+header, footer,article,section{
+    background-color: white;
+}   
